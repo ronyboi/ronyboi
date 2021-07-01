@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my personal website
-- 🌱 I’m currently learning the fundamentals of web development with react.js
+I’m currently working on my _personal website_
+I’m currently learning the fundamentals of web development with **react.js**
 
+#### [LinkedIn](https://www.linkedin.com/in/ragrwal/)
 <!--
 **ronyboi/ronyboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
