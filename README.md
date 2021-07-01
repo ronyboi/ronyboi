@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently working on my _personal website_
+I’m currently working on my [_personal website_](https://github.com/ronyboi/personal-website)
 
 I’m currently learning the fundamentals of web development with **react.js**
 
