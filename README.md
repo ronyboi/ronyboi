@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I’m currently working on my _personal website_
+
 I’m currently learning the fundamentals of web development with **react.js**
 
 #### [LinkedIn](https://www.linkedin.com/in/ragrwal/)
