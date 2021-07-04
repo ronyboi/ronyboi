@@ -5,7 +5,7 @@ I’m currently:
 
 - Learning the fundamentals of web development with **react.js**
 
-Feel free to reach out to me: #### [LinkedIn](https://www.linkedin.com/in/ragrwal/) 
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ragrwal/) 
 <!--
 **ronyboi/ronyboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
