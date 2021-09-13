@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 I’m currently:
-- Working on my [_personal website_](https://github.com/ronyboi/personal-website)
+- Focusing on school assignments and courses. 
+- Working on Winter 2022 and Summer 2022 Internship Applications.
 
-- Learning the fundamentals of web development with **react.js**
+I've just finished the first version of my personal website. Check it out [here](https://www.ragrwal.com)
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ragrwal/) 
 <!--
