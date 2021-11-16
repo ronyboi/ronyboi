@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+I'm an incoming backend developer intern at Shopify! 
+
 I’m currently:
 - Focusing on school assignments and courses. 
-- Working on Winter 2022 and Summer 2022 Internship Applications.
+- Working on Summer 2022 Internship Applications.
 
 I've just finished the first version of my personal website. Check it out [here](https://www.ragrwal.com)
 
