@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm an incoming backend developer intern at Shopify! 
+I'm an incoming backend developer intern at Shopify for Winter 2022!
+And, I'm an incoming SDE intern at Amazon for Summer 2022!
 
 I’m currently:
-- Focusing on school assignments and courses. 
-- Working on Summer 2022 Internship Applications.
+- Focusing on school assignments and courses.
 
 I've just finished the first version of my personal website. Check it out [here](https://www.ragrwal.com)
 
