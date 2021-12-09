@@ -2,7 +2,7 @@
 
 Incoming Backend Developer Intern for **Shopify** in the **Winter** of 2022
 
-Incoming Software Development Engineer for **Amazon** in the **Summer** of 2022
+Incoming SDE Intern for **Amazon** in the **Summer** of 2022
 
 I've just finished the first version of my personal website. Check it out [here](https://www.ragrwal.com)
 
