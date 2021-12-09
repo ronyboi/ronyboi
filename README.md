@@ -1,11 +1,7 @@
 ### Hi there 👋
 
-I'm an incoming backend developer intern at Shopify for Winter 2022!
-
-And, I'm an incoming SDE intern at Amazon for Summer 2022!
-
-I’m currently:
-- Focusing on school assignments and courses.
+Incoming Backend Developer Intern for **Shopify** in the **Winter** of 2022
+Incoming Software Development Engineer for **Amazon** in the **Summer** of 2022
 
 I've just finished the first version of my personal website. Check it out [here](https://www.ragrwal.com)
 
@@ -14,6 +10,10 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ragrwal/)
 **ronyboi/ronyboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
+I’m currently:
+- Focusing on school assignments and courses.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
