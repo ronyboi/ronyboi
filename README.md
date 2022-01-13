@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Incoming Backend Developer Intern for **Shopify** in the **Winter** of 2022
+Backend Developer Intern for **Shopify**
 
 Incoming SDE Intern for **Amazon** in the **Summer** of 2022
 
