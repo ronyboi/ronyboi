@@ -1,12 +1,12 @@
-### Hi there 👋
+### What's good?
 
-Infrastructure Security Intern for **Shopify**
+Infrastructure Security Intern @ **Shopify**
 
-Incoming SDE Intern for **Amazon** in the **Summer** of 2022
+Incoming SDE Intern @ **Amazon** (Summer 2022)
 
-I've just finished the first version of my personal website. Check it out [here](https://www.ragrwal.com)
+I've learnt that I should stay away from design/css. I still made a personal website. Check it out [here](https://www.ragrwal.com)
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ragrwal/) 
+[LinkedIn](https://www.linkedin.com/in/ragrwal/) 
 <!--
 **ronyboi/ronyboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
