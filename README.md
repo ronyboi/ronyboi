@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Backend Developer Intern for **Shopify**
+Infrastructure Security Intern for **Shopify**
 
 Incoming SDE Intern for **Amazon** in the **Summer** of 2022
 
