@@ -1,8 +1,6 @@
 ### What's good?
 
-Infrastructure Security Intern @ **Shopify**
-
-Incoming SDE Intern @ **Amazon** (Summer 2022)
+Previous Intern @ Shopify & Amazon
 
 I've learnt that I should stay away from design/css. I still made a personal website. Check it out [here](https://www.ragrwal.com)
 
