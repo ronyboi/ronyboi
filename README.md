@@ -1,8 +1,8 @@
-### What's good?
+### Hi?
 
-Previous Intern @ Shopify & Amazon
+Dev @ Onedesk. Previous Intern @ Shopify & Amazon
 
-I've learnt that I should stay away from design/css. I still made a personal website. Check it out [here](https://www.ragrwal.com)
+I made a personal website (but I think my domain has expired). ~~Check it out [here](https://www.ragrwal.com)~~
 
 [LinkedIn](https://www.linkedin.com/in/ragrwal/) 
 <!--
