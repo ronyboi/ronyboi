@@ -1,4 +1,4 @@
-### Hi?
+### Hi!
 
 Dev @ Onedesk. Previous Intern @ Shopify & Amazon
 
